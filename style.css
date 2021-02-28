@@ -1,1 +1,12 @@
+body {
+  color: black;
+  background: light gray;
+  front-family: Roboto
+}
 
+h1 {
+  color: red;
+}
+h3 {
+  border: double
+}

@@ -1,25 +1,10 @@
-body {
-  color: black;
-  background: light gray;
-  front-family: Roboto
-}
-
-h1 {
-  color: red;
-}
+:root {
+  /* Fonts */
+  --main-font-primary: "Roboto"
+  /* Colors */
+  --main-color-gray: #485358;
+  
 h3 {
-  border: double
+  border: double;
+  color: red
 }
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      To be filled 1
-    </div>
-    <div class="col-sm">
-      To be filled 2
-    </div>
-    <div class="col-sm">
-      To be filled 3
-    </div>
-  </div>
-</div>

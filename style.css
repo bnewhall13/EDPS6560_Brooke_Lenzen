@@ -1,8 +1,6 @@
 :root {
-  /* Fonts */
-  --main-font-primary: "Roboto"
   /* Colors */
-  --main-color-gray: #485359;
+  --main-color-gray: #DCDCDC;
 }
 
 #sec_bio {

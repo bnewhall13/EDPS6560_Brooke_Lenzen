@@ -3,7 +3,7 @@
   --main-font-primary: "Roboto"
   /* Colors */
   --main-color-gray: #485358;
-  
+}
 h3 {
   border: double;
   color: red

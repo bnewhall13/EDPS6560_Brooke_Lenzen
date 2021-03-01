@@ -1,4 +1,7 @@
 :root {
+  /*Fonts*/
+  --main-font-1: Roboto;
+  --main-font-2: Arial;
   /* Colors */
   --main-color-gray: #DCDCDC;
 }
@@ -9,7 +12,7 @@
 #sec_grid {
   background-color: var(--main-color-gray);
   align: center;
-  font: Arial
+  font: var(--main-font-2)
 }
 h2 div {
   border: double;

@@ -9,6 +9,6 @@
 #sec_grid {
   background-color: var(--main-color-gray);
 }
-div {
+h2 div {
   border: double;
 }

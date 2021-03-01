@@ -8,6 +8,8 @@
 }
 #sec_grid {
   background-color: var(--main-color-gray);
+  align: center;
+  font: Arial
 }
 h2 div {
   border: double;

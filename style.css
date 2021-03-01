@@ -9,11 +9,9 @@
 #sec_bio {
   background-color: var(--main-color-gray);
 }
+
 #sec_grid {
   background-color: var(--main-color-gray);
   align: center;
   font: var(--main-font-2)
-}
-h2 div {
-  border: double;
 }
